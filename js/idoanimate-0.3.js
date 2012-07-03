@@ -1,6 +1,6 @@
 /*
  * A N I M A T I O N  J A V A S C R I P T  L I B R A R Y
- * Phiên bản cải tiến 0.2
+ * Phiên bản cải tiến 0.3
  * 
  * 29/03/2012
  * - update hàm makeDraggable: click vào element sẽ hiện tọa độ lên ngay
