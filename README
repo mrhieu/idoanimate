@@ -1,1 +1,31 @@
-I have no idea what i'm doing
+A DIY HTML and CSS3 animation library
+=========
+
+Idoanimate is a set of javascript, css, html that can create animation based on HTML(5), not Flash at all. I'm going to pack it as a complete library to use it multiple times in my own projects, and may be yours.
+
+  - Create animation objects based on div with background image and some animation CSS style
+  - Written with my limited knowledges about Javascript OOP
+  - Need much much more improvment
+
+Version
+-
+
+0.0.3
+
+Tech
+-----------
+
+Create animation objects based on div with background image and some animation CSS style
+
+Installation
+--------------
+
+1. Clone the repo
+2. Include idoanimate.js in your document
+3. See my example. I'll provide a short guide soon.
+
+
+License
+-
+
+FREE, FREE, and FREE
